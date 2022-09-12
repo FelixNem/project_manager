@@ -7,5 +7,7 @@ El cliente está interesado en que pueda traer la información de las tareas pen
 
 ## Desarrollado en equipo
 
+```
 Felix Nemecio Aguilar Mendoza
 Jose Nathaniel Cruz Cardenas
+```
